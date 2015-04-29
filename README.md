@@ -1,8 +1,20 @@
 #Treeline Meetup Notes
-## Install Node
-	https://nodejs.org/download/
 
-## Install Treeline
+##Insperation Video
+[insperation Video](https://youtu.be/USyoT_Ha_bA)
+	
+
+##Example Video
+
+[Example Video](https://youtu.be/84TXJ4CxeKw)
+
+## Install Node
+[Node.js Site](https://nodejs.org/download/)
+
+
+## Install Treeline -- 
+######From Terminal:
+	cd ~
 	npm install -g treeline
  
 ## Clone App
@@ -24,8 +36,5 @@
 
 ``` sandbox8870e924e5c04d769b411af112562426.mailgun.org ```
 
-##Example Video
-
-	https://youtu.be/84TXJ4CxeKw
 
 
